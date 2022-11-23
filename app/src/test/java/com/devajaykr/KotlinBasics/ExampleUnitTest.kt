@@ -1,4 +1,4 @@
-package com.devajaykr.myapplication
+package com.devajaykr.KotlinBasics
 
 import org.junit.Test
 

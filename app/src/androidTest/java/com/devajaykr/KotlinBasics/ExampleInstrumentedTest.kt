@@ -1,4 +1,4 @@
-package com.devajaykr.myapplication
+package com.devajaykr.KotlinBasics
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

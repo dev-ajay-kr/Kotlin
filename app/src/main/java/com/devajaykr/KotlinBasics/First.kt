@@ -1,4 +1,4 @@
-package com.devajaykr.myapplication
+package com.devajaykr.KotlinBasics
 
     fun main() {
         var namer="ajay"
