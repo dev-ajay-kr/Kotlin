@@ -8,4 +8,5 @@ if(value > 5) {
         x = "oh"
     }
 }
+    println(x)
 }
